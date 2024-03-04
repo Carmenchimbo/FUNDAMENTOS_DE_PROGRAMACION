@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7c2b4525-58f1-45bb-9f95-57078b273215" name="Changes" comment="programacion">
+      <change afterPath="$PROJECT_DIR$/.idea/FUNDAMENTOS_DE_PROGRACIÓN.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/D.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Declaración_y_asignación de_arreglos_multidimensionales.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Iteración_de_arreglos_multidimensionales_con_bucles_anidados.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2cpv1Hlf8qRFWzX0ok2Z7osgaca" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.3.2.2-05. Temperaturas-Ciudades (Resuelto).executor&quot;: &quot;Run&quot;,
+    &quot;Python.3.2.2-05. Temperaturas-Ciudades.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Búsqueda_en_Arreglo_Multidimensional.executor&quot;: &quot;Run&quot;,
+    &quot;Python.D.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Declaración_y_asignación_de_arreglos_multidimensionales.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Iteración _de _arreglos_multidimensionales.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Iteración_de_arreglos_multidimensionales_con_bucles_anidados.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ordenación_de_Arreglo_Multidimensional.executor&quot;: &quot;Run&quot;,
+    &quot;Python.PRUEBA.executor&quot;: &quot;Run&quot;,
+    &quot;Python._virtualenv.executor&quot;: &quot;Run&quot;,
+    &quot;Python.variables_array.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="D" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="FUNDAMENTOS_DE_PROGRACIÓN" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/D.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.D" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-5a2391486177-2887949eec09-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-233.13763.11" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7c2b4525-58f1-45bb-9f95-57078b273215" name="Changes" comment="" />
+      <created>1708821119175</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1708821119175</updated>
+      <workItem from="1708821132546" duration="350000" />
+      <workItem from="1708821512776" duration="236000" />
+      <workItem from="1708821760586" duration="1398000" />
+      <workItem from="1708823187755" duration="231000" />
+      <workItem from="1708823428364" duration="15000" />
+      <workItem from="1708895215308" duration="1642000" />
+      <workItem from="1708901803135" duration="463000" />
+      <workItem from="1708921095076" duration="692000" />
+      <workItem from="1709075612352" duration="1265000" />
+      <workItem from="1709151496158" duration="806000" />
+      <workItem from="1709325572974" duration="217000" />
+      <workItem from="1709325815440" duration="8229000" />
+      <workItem from="1709338435020" duration="1186000" />
+      <workItem from="1709413620901" duration="4136000" />
+      <workItem from="1709500159614" duration="692000" />
+      <workItem from="1709500885778" duration="8267000" />
+      <workItem from="1709515915130" duration="1191000" />
+      <workItem from="1709522750799" duration="297000" />
+    </task>
+    <task id="LOCAL-00001" summary="ACTUALIZACION DE DATOS">
+      <option name="closed" value="true" />
+      <created>1708822735885</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1708822735885</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Actualización de datos 1.0">
+      <option name="closed" value="true" />
+      <created>1708895415057</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1708895415057</updated>
+    </task>
+    <task id="LOCAL-00003" summary="programacion">
+      <option name="closed" value="true" />
+      <created>1709501714812</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1709501714812</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="ACTUALIZACION DE DATOS" />
+    <MESSAGE value="Actualización de datos 1.0" />
+    <MESSAGE value="programacion" />
+    <option name="LAST_COMMIT_MESSAGE" value="programacion" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/FUNDAMENTOS_DE_PROGRACIÓN$Declaración_y_asignación_de_arreglos_multidimensionales.coverage" NAME="Declaración_y_asignación_de_arreglos_multidimensionales Coverage Results" MODIFIED="1708821764869" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/FUNDAMENTOS_DE_PROGRACIÓN$_virtualenv.coverage" NAME="_virtualenv Coverage Results" MODIFIED="1709516021616" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv/Lib/site-packages" />
+    <SUITE FILE_PATH="coverage/FUNDAMENTOS_DE_PROGRACIÓN$Ordenación_de_Arreglo_Multidimensional.coverage" NAME="Ordenación_de_Arreglo_Multidimensional Coverage Results" MODIFIED="1708895301737" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/FUNDAMENTOS_DE_PROGRACIÓN$Iteración_de_arreglos_multidimensionales_con_bucles_anidados.coverage" NAME="Iteración_de_arreglos_multidimensionales_con_bucles_anidados Coverage Results" MODIFIED="1709326024869" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/FUNDAMENTOS_DE_PROGRACIÓN$Iteración__de__arreglos_multidimensionales.coverage" NAME="Iteración _de _arreglos_multidimensionales Coverage Results" MODIFIED="1709501509911" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/FUNDAMENTOS_DE_PROGRACIÓN$D.coverage" NAME="D Coverage Results" MODIFIED="1709522350134" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/FUNDAMENTOS_DE_PROGRACIÓN$3_2_2_05__Temperaturas_Ciudades__Resuelto_.coverage" NAME="3.2.2-05. Temperaturas-Ciudades (Resuelto) Coverage Results" MODIFIED="1709353314102" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Pictures" />
+    <SUITE FILE_PATH="coverage/FUNDAMENTOS_DE_PROGRACIÓN$variables_array.coverage" NAME="variables_array Coverage Results" MODIFIED="1709500505715" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Downloads" />
+    <SUITE FILE_PATH="coverage/FUNDAMENTOS_DE_PROGRACIÓN$3_2_2_05__Temperaturas_Ciudades.coverage" NAME="3.2.2-05. Temperaturas-Ciudades Coverage Results" MODIFIED="1709353030039" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Pictures" />
+    <SUITE FILE_PATH="coverage/FUNDAMENTOS_DE_PROGRACIÓN$PRUEBA.coverage" NAME="PRUEBA Coverage Results" MODIFIED="1708822488311" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/FUNDAMENTOS_DE_PROGRACIÓN$Búsqueda_en_Arreglo_Multidimensional.coverage" NAME="Búsqueda_en_Arreglo_Multidimensional Coverage Results" MODIFIED="1708895325824" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
